@@ -7,3 +7,6 @@ show_downloads: false
 
 markdown: kramdown
 theme: jekyll-theme-minimal
+
+plugins:
+  - jekyll-sitemap
