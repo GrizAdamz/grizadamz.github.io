@@ -1,0 +1,9 @@
+name: Nick Selleh
+
+title: nickselleh.info
+#description: Nicks webpage, and stuff.
+
+show_downloads: false
+
+markdown: kramdown
+theme: jekyll-theme-minimal
